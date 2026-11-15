@@ -6,6 +6,7 @@ training runs and simulations while they run.
 ## The Mac app
 
 ```bash
+brew trust --cask selimamar/tap/soliton    # once: Homebrew asks you to trust it
 brew install --cask selimamar/tap/soliton
 ```
 

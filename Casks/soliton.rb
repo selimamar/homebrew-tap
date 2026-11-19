@@ -1,6 +1,6 @@
 cask "soliton" do
-  version "0.3.1"
-  sha256 "7df8a808ba661d43396192b17d9a3f84572314bf57f64762680f9d3178956c39"
+  version "0.3.2"
+  sha256 "1b2d2e58c2d5b2f5e1e494d11cecb7ee0dcfc0739c3b5bc63c7951d5ce9e1809"
 
   url "https://github.com/selimamar/soliton/releases/download/v#{version}/Soliton-#{version}.zip"
   name "Soliton"
